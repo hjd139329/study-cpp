@@ -1,0 +1,5 @@
+﻿  01 整形.cpp
+D:\Work-APP\VS\project\数据类型\01 整形.cpp(8,15): warning C4309: “初始化”: 截断常量值
+  02 sizeofu关键字.cpp
+  正在生成代码...
+  数据类型.vcxproj -> D:\Work-APP\VS\project\数据类型\x64\Debug\数据类型.exe
