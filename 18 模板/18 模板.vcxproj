@@ -145,6 +145,11 @@
     <ClCompile Include="04 普通函数与函数模板的区别.cpp" />
     <ClCompile Include="05 普通函数与函数模板的调用规则.cpp" />
     <ClCompile Include="06 模板的局限性.cpp" />
+    <ClCompile Include="07 类模板基本语法.cpp" />
+    <ClCompile Include="08 类模板和函数模板的区别.cpp" />
+    <ClCompile Include="09 类模板中成员函数创建时机.cpp" />
+    <ClCompile Include="10 类模板对象作函数参数.cpp" />
+    <ClCompile Include="11 类模板和继承.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
