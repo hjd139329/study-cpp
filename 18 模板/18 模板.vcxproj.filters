@@ -57,9 +57,15 @@
     <ClCompile Include="14 类模板和友元.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="15 类模板案例-数组类封装.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="person.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyArray.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
