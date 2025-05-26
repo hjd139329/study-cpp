@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35731.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27 map容器", "27 map容器.vcxproj", "{79977C55-0E19-45D4-AC9C-186F6A4623C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79977C55-0E19-45D4-AC9C-186F6A4623C2}.Debug|x64.ActiveCfg = Debug|x64
+		{79977C55-0E19-45D4-AC9C-186F6A4623C2}.Debug|x64.Build.0 = Debug|x64
+		{79977C55-0E19-45D4-AC9C-186F6A4623C2}.Debug|x86.ActiveCfg = Debug|Win32
+		{79977C55-0E19-45D4-AC9C-186F6A4623C2}.Debug|x86.Build.0 = Debug|Win32
+		{79977C55-0E19-45D4-AC9C-186F6A4623C2}.Release|x64.ActiveCfg = Release|x64
+		{79977C55-0E19-45D4-AC9C-186F6A4623C2}.Release|x64.Build.0 = Release|x64
+		{79977C55-0E19-45D4-AC9C-186F6A4623C2}.Release|x86.ActiveCfg = Release|Win32
+		{79977C55-0E19-45D4-AC9C-186F6A4623C2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8577C14A-51D2-4B1D-8C3E-355D4BA517E1}
+	EndGlobalSection
+EndGlobal
