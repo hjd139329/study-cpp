@@ -5,6 +5,7 @@
 //#include<algorithm>
 //
 //
+////按照条件查找元素
 ////内置数据类型
 //class GreaterFive
 //{

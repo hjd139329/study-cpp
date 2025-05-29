@@ -147,6 +147,19 @@
     <ClCompile Include="06 查找算法-binary_search.cpp" />
     <ClCompile Include="07 查找算法-count.cpp" />
     <ClCompile Include="08 查找算法-count_if.cpp" />
+    <ClCompile Include="09 排序算法-sort.cpp" />
+    <ClCompile Include="10 排序算法-random_shuffle.cpp" />
+    <ClCompile Include="11 排序算法-merge.cpp" />
+    <ClCompile Include="12 排序算法-reverse.cpp" />
+    <ClCompile Include="13 拷贝和替换算法-copy.cpp" />
+    <ClCompile Include="14 拷贝和替换算法-replace.cpp" />
+    <ClCompile Include="15 拷贝和替换算法-replace_if.cpp" />
+    <ClCompile Include="16 拷贝和替换算法-swap.cpp" />
+    <ClCompile Include="17 算数生成算法-accumulate.cpp" />
+    <ClCompile Include="18 算数生成算法-fill.cpp" />
+    <ClCompile Include="19 集合算法-set_intersection.cpp" />
+    <ClCompile Include="20 集合算法-set_union.cpp" />
+    <ClCompile Include="21 集合算法-set_difference.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

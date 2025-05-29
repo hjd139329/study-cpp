@@ -3,6 +3,8 @@
 //#include<algorithm>
 //#include<vector>
 //
+// 
+// //查找相邻的且相等的元素
 //void test01()
 //{
 //	vector<int>v;
