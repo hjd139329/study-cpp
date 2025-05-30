@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>D:\Work-APP\VS\study-Cpp\study-cpp\31 演讲比赛流程管理系统\</FILEPATH>
+      <FILENAME>speaker.h</FILENAME>
+      <LINE>12</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>未初始化变量 Speaker::m_Score。始终初始化成员变量(type.6)。</DESCRIPTION>
+    <FUNCTION>Speaker::{ctor}</FUNCTION>
+    <DECORATED>??0Speaker@@QAE@XZ</DECORATED>
+    <FUNCLINE>12</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Speaker::m_Score</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
