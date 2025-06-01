@@ -7,6 +7,9 @@ using namespace std;
 #include<string>
 #include<algorithm>
 #include<deque>
+#include<functional>
+#include<numeric>
+#include<fstream>
 
 class SpeechManager
 {
@@ -28,6 +31,12 @@ public:
 	void speechDraw();
 	//赋分-比赛
 	void compareScore();
+
+	//显示得分
+	void showScore();
+
+	//保存记录
+	void saveRecord();
 	//析构函数
 	~SpeechManager();
 
@@ -35,6 +44,6 @@ public:
 	vector<int>v1;//保存第一轮选手编号的容器
 	vector<int>v2;//保存第二轮选手编号的容器
 	vector<int>vVictory;//保存胜出的三名选手编号容器
-	map<int,Speaker>m_Speaker;//保存选手编号和姓名
+	map<int,Speaker>m_Speaker;//保存选手编号和信息
 	int index;//存放比赛轮数
 };
