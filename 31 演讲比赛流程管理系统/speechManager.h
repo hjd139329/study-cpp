@@ -37,6 +37,20 @@ public:
 
 	//保存记录
 	void saveRecord();
+
+	//读取记录
+	void loadRecord();
+
+	//判断文件是否为空
+	bool fileIsEmpty;
+	//记录往届数据
+	map<int, vector<string>>m_Record;
+
+	//显示往届记录
+	void showRecord();
+
+	//清空
+	void clearRecord();
 	//析构函数
 	~SpeechManager();
 

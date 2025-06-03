@@ -32,10 +32,13 @@ int main()
 			break;
 		case 2:
 			cout << "查看往届记录" << endl;
+			sm.showRecord();
+			//sm.loadRecord();
 			break;
 
 		case 3:
 			cout << "清空比赛记录" << endl;
+			sm.clearRecord();
 			break;
 
 		case 0:
